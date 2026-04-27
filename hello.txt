@@ -1,5 +1,6 @@
 Hello, World!
 edit file
-edit file 260427 15:34:00   # build 3 pass
-edit file 260427 15:36:00   # build 4 pass
-edit file 260427 15:39:00   # build 5
+edit file 260427 15:34:00   # windows dsektop   # build 3 pass
+edit file 260427 15:36:00   # windows dsektop   # build 4 pass
+edit file 260427 15:39:00   # windows dsektop   # build 5 pass
+edit file 260427 15:40:00   # macbook           # build 6
